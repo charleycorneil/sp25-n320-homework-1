@@ -2,8 +2,6 @@
 
 ### Full-Stack Web Development
 
-Full stack development combine of many different
-
 Full stack development combines many different skills sets to develop the front end and back end parts to web application. Being able to use their talents to design websites so that users can efficiently and effectively navigate a web browser. They work with database management by storting, gathering and maintaining the different data points. Working in full stack has its advantages like not having to depend on the input of specialized rolls.
 
 ### Node.js Understanding
